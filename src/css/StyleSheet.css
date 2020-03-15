@@ -1,0 +1,53 @@
+
+body{
+	font: "Times New Roman";
+	font-size: 18px;
+	background-color: white;
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	background-size: contain;
+
+}
+
+h2{ color:brown; 
+}
+
+p{ padding:8px; 
+}
+
+#header{
+	  width:100%;
+      height:170px;
+	  font-weight:bolder;
+	  padding:5px;
+      background-image:url("../img/absurdity.png");
+	  
+}	
+
+#footer{
+	  text-align:center;
+	  width:100%;
+      height:130px;
+	  font-weight:bolder;
+	  padding:5px;
+      background-image:url("../img/absurdity.png");	
+}
+
+#content{
+	  width:100%;
+	  color:black;
+      background-image:url("../img/brilliant.png");
+}
+
+table, th, td {
+	border: 1px solid black;
+  }
+  
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+

@@ -1,0 +1,17 @@
+{
+  "name": "interview-js-paint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yulric Sequeira <yulrics@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commonjs": "0.0.1",
+    "lodash": "^4.17.15",
+    "requirejs": "^2.3.6"
+  }
+}
