@@ -1,3 +1,12 @@
+# How to run
+- Enter a valid input into rows and columns field (number only)
+- Press a Submit button to create a table with exact rows and columns
+- Change a color if you like by pressing a color picker below a form
+- After that, choose which location you would like to change a color and press a Click button
+=> It will change a color of an original pixel and 8 adjacent pixels around it according to a button is clicked
+
+- If you want to create a new table, you will need to refresh a page to start
+
 # JS Technical Interview - Paint
 
 ## Instructions
