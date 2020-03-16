@@ -147,6 +147,7 @@ function createGrid() {
             }
         });
     });
+
     return false;
 }
 exports.createGrid = createGrid
